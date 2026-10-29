@@ -11,7 +11,7 @@ Full-stack engineer in Frankfurt am Main. I build web apps with **TypeScript, Re
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [ChurchCompass](https://churchcompass.org/) | Multi-tenant SaaS for US churches: events, outreach QR codes, SMS/email notifications to followers | Next.js · Node.js · PostgreSQL · Twilio |
-| [FanRaiz v2](https://fanraiz-v2.vercel.app) | QR-based customer capture, reviews and rewards for small local businesses | Next.js · TypeScript · PostgreSQL |
+| [FanRaiz](https://fanraiz.com/) | QR-based customer capture, reviews and rewards for small local businesses | Next.js · TypeScript · PostgreSQL |
 | Universal Access | Logged, temporary gate access for couriers: Raspberry Pi controller, signed commands, offline Bluetooth grants | Go · AWS KMS · Raspberry Pi |
 | [Blockchain Pets](https://blockchainpets.muhammadsaadzafar.com/) | Ethereum NFT marketplace, government-funded university grant, led a team of three | React · Solidity · Hardhat |
 
